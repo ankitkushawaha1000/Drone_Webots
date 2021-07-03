@@ -1,4 +1,4 @@
 
-this project is based on drone
-in this project i have implemented automatic and manual control
-along with landing of drone on a landing pad using image processing and aruco markers
+Implemented automatic and manual control for its movement in webots environment
+Used computer vision, which helps in detecting the landing pad
+Used pid control and GPS to accurately land on the landing pad
